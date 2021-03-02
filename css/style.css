@@ -1,5 +1,12 @@
-body {
+body{
     background-color: dodgerblue;
+}
+
+#main {
+    background-color: white;
+    width: 80vw;
+    margin: auto;
+    padding: 6px;
 }
 
 .terminal_print {
